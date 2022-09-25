@@ -12,12 +12,13 @@ So for example, someone who prefers introversion, intuition, thinking and percei
 
 It is one of, if not the, the most popular personality test in the world. It is used in businesses, online, for fun, for research and lots more. A simple google search reveals all of the different ways the test has been used over time. It’s safe to say that this test is still very relevant in the world in terms of its use.
 
+
 With that data we want to make an NLP model to predict based on comments (on social media) what is the kind personality a person has.
 
 ## Important:
 ### The data is unbalanced and it has many personalities. Which is a problem hard to solve.
 
-### First we started with a Base Line model. We clean the data, explroed the data nad trained the model. 
+## First we start with a Base Line model. We clean the data, explored the data nad trained the model. 
 The result was fair for a base line, but it had a very poor predictive power.
 
 
