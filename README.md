@@ -15,18 +15,18 @@ It is one of, if not the, the most popular personality test in the world. It is 
 
 With that data we want to make an NLP model to predict based on comments (on social media) what is the kind personality a person has.
 
-## Important:
-### The data is unbalanced and it has many personalities. Which is a problem hard to solve.
+### Important:
+#### The data is unbalanced and it has many personalities. Which is a problem hard to solve.
 
-## First we start with a Base Line model. We clean the data, explored the data nad trained the model. 
+### First we start with a Base Line model. We clean the data, explored the data nad trained the model. 
 The result was fair for a base line, but it had a very poor predictive power.
 
 
-## The second model we only use 40 plus posts. the mdoel imrpoved little to nothing
+### The second model we only use 40 plus posts. the mdoel imrpoved little to nothing
 
-## In the thrid model, we dumped types with too much data. Which improved the model to .4 f1 score
+### In the thrid model, we dumped types with too much data. Which improved the model to .4 f1 score
 
-## In the forurth model, we dumped types with too little data. Which improved the model to .44 f1 score
+### In the forurth model, we dumped types with too little data. Which improved the model to .44 f1 score
  Notice that it would be two different models. One for the personalities taken in the third model and other to the personalities taken in the fourth
  
-## Finally we solve the data unbalanced problem by reducing all types to only 280, 180 and then to 120. The results were similar and not significant.
+### Finally we solve the data unbalanced problem by reducing all types to only 280, 180 and then to 120. The results were similar and not significant.
