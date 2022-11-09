@@ -30,3 +30,6 @@ The result was fair for a base line, but it had a very poor predictive power.
  Notice that it would be two different models. One for the personalities taken in the third model and other to the personalities taken in the fourth
  
 ### Finally we solve the data unbalanced problem by reducing all types to only 280, 180 and then to 120. The results were similar and not significant.
+
+
+URL KAGGLE DShttps://www.kaggle.com/datasets/datasnaek/mbti-typURL KAGGLE DS    
